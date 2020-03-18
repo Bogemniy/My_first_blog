@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycashe__
+Venv
+db.sqlite3
+/static
+.DC_Store
+.idea/
